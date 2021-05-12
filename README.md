@@ -8,4 +8,4 @@
 I'm Roman, mainly focusing on Frontend Development. But sometimes love to discover backend world.
 
 ## My projects
-- [Stream Roulette](https://stream-roulette.live) - non-commercial project giving you ability to roll some random streamers from Twitch.tv
+- [Stream Roulette](https://stream-roulette.live) - non-commercial project giving you ability to search some random streamers from Twitch.tv. Languages and regularly updated games list as filters are also available for you.
