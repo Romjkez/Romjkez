@@ -1,4 +1,4 @@
-# Welcome on board ✌ #NoToWar
+# Welcome on board ✌
 
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-efd81d)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue)
